@@ -37,3 +37,19 @@ h2 {
     border-radius: 12px;
     margin-top: 20px;
 }
+nav {
+    text-align: center;
+    background: #222;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
