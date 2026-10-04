@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    background: #f7f4ef;
+    color: #222;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+    background: #111;
+    color: white;
+}
+
+header h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+section {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.book {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    margin-top: 20px;
+}
